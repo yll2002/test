@@ -1,0 +1,3 @@
+Command  : add
+Parm     : 2 double parm
+Function : 两个数的加法运算
